@@ -1,8 +1,8 @@
 
-var playlist= {artistName:'Slowride',songTitle:'Alison'};
+var playlist= {artistName:'Slowdive',songTitle:'Alison'};
 
 function updatePlaylist(playlist,artistName,songTitle){
-  playlist ['Phil Ochis']='Here`s to the state of mississippi';
+  playlist ['Phil Ochs']='Here`s to the state of mississippi';
   return playlist}
 
 
